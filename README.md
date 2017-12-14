@@ -6,7 +6,7 @@ qCraft is not intended as a simulation of quantum mechanics or quantum computing
 
 ## Version
 
-This repository is using Minecraft 1.7.10 and Forge build 1291.
+This repository is using Minecraft 1.12.2 and Forge build 2555.
 
 ## License
 
